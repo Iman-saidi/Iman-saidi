@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  - [AI powered traffic and parking control system](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AI powered traffic and parking control system](https://github.com/Iman-saidi/Iman-saidi)
   - [Simple Shell](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
